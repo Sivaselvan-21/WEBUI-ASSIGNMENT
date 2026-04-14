@@ -133,36 +133,3 @@
 </html>
 
 
-HTML5 Structure
-
-<div class="main"> acts as the main container.
-
-Inside it, sections like header, progress bars, and expandable panels organize the content neatly.
-
-Semantic tags like <h3>, <div>, <ul>, <li>, and <button> create a clear layout.
-
-CSS3 Styling
-
-The .main class uses the box model (padding, margin, border-radius, shadow).
-
-Rounded corners (border-radius) give a smooth modern look.
-
-A media query ensures the dashboard fits smaller screens (phones and tablets).
-
-Bootstrap Integration
-
-Bootstrap’s grid system (col-md-6) arranges performance statistics side by side.
-
-Progress bars visually represent the completion percentage of events.
-
-JavaScript (Theme Switching)
-
-A variable darkMode keeps track of the theme.
-
-When the user clicks the Switch Theme button, background and text colors toggle dynamically using .css() updates.
-
-jQuery (Smooth Interactions)
-
-Clicking a .panel triggers a slide toggle animation (slideToggle()) to show/hide the corresponding .panel-content.
-
-This makes the UI interactive without page reloads or complex logic.
