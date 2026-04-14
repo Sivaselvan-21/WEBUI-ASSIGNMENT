@@ -165,41 +165,7 @@ $(document).ready(function(){
 });
 </script>
 
-</body>
-</html>
 
-
-Explanation:
-
-HTML5 Semantic Structure
-
-headpart, menupart, section, article, and footpart define the page flow.
-
-The top has navigation links; middle has course list; bottom has login and footer.
-
-CSS3 Styling
-
-Each cardbox represents a course card.
-
-box-shadow and transform make hover animation.
-
-Media queries ensure cards stack properly on mobile.
-
-Bootstrap Layout
-
-Used container, row, and col-md-4 for a grid-based layout.
-
-Buttons and alerts from Bootstrap make UI clean and responsive.
-
-JavaScript Validation
-
-On form submission, it checks if both fields are filled.
-
-Shows or hides error text dynamically without page reload.
-
-jQuery Animations
-
-Used fadeIn() for the welcome text to appear smoothly.
 
 All interactivity handled cleanly using minimal code.
 
