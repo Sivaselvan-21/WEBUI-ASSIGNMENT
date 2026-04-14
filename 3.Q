@@ -175,5 +175,4 @@
 
 </body>
 </html>
-Here we have used the media query '@media' it allows to protray the interface smoothly for different devices . Here we handled for the smaller devices which has the max width o
-of 600 px for that the width will be adjusted here.
+
