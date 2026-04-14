@@ -206,38 +206,4 @@ $(".viewProject").click(function() {
 </html>
 
 
-HTML5 Structure:
 
-Used <header> equivalent with a div for title and navigation links.
-
-Sections like About Me, Projects, and Contact are organized using div blocks with simple IDs.
-
-Internal links (href="#about") allow navigation between sections.
-
-CSS3 Styling:
-
-Rounded corners with border-radius: 15px.
-
-Soft shadows via box-shadow.
-
-Hover effects on .cardbox add interactivity and highlight focus.
-
-JavaScript:
-
-Displays a live clock and dynamic greeting (“Good Morning”, “Good Evening”) using time-based logic.
-
-Handles form submission and shows alert confirmation.
-
-jQuery:
-
-Simplifies UI interactions like form submission and fade animations.
-
-Adds section transitions when navigation links are clicked.
-
-Bootstrap:
-
-Provides the responsive grid system for project cards.
-
-Uses ready-made modals for showing project details.
-
-Ensures the layout adapts to all screen sizes automatically.
